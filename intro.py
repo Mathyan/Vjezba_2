@@ -1,0 +1,6 @@
+broj=float((input("Unesi cijeli broj:")))
+print(broj)
+broj=int((input("Unesi cijeli broj:")))
+print(broj)
+rijec=input("unesite rijec")
+print(rijec)
