@@ -1,0 +1,5 @@
+broj_a = float(input("Upisite prvi broj: "))
+broj_b = float(input("Upisite drugi broj: "))
+print("{}/{}={}".format(broj_a,broj_b,round(broj_a/broj_b,5)))
+print("{}/{}={}".format(broj_a,broj_b,round(broj_a/broj_b,2)))
+print("{}/{}={}".format(broj_a,broj_b,int(broj_a/broj_b)))
